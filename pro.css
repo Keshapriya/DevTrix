@@ -1,0 +1,99 @@
+
+.container .heading1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.container .heading2{
+    color: red;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+#aa{
+    text-transform: lowercase;
+    color:red;
+}
+.container .heading3{
+    color: red;
+    text-transform: capitalize;
+}
+.container .heading4{
+    color: red;
+    text-transform: capitalize;
+    font-size: 20px;
+
+}
+.about-me{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+
+}
+.subheading{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 20px;
+}
+.class{
+    list-style: circle;
+    
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.skills{
+    text-align: center;
+    font-size: 20px;
+
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.tech{
+    list-style: circle;
+    color: blueviolet;
+    font-size: 20px;
+}
+.pro{
+    text-align: center;
+    font-size:20px;
+
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+.intern{
+    list-style:circle;
+    
+    font-size: 30px;
+    text-transform: capitalize;
+
+}
+.hobbies{
+    text-align: center;
+    font-size: 20px;
+
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+.hobb{
+    list-style: circle;
+    color: blueviolet;
+    font-size: 20px;
+
+}
+body{
+    background-color: rgb(209, 226, 220);
+}
